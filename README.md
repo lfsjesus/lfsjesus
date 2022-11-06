@@ -11,4 +11,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lfsjesus&show_icons=true&title_color=c02121&locale=en&layout=compact" alt="r00cha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lfsjesus&show_icons=true&title_color=c02121&locale=en" alt="r00cha" /></p>
