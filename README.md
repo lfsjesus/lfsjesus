@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luís Jesus</h1>
+<h1 align="center">Hi, I'm Luís Jesus</h1>
 <h3 align="center">2nd year student at FEUP | Informatics and Computing Engineering</h3>
 
 <h3 align="left">Connect with me:</h3>
